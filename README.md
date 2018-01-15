@@ -7,4 +7,4 @@ Welcome to my Portfolio!
 
 ## WizaPen ##
 ### Trailer ###
-[![Screenshot](https://i.imgur.com/TZfP9k8.png)](https://youtu.be/zGgNloPmkOk)
+[![Screenshot](https://i.imgur.com/rpacsRd.png)](https://youtu.be/zGgNloPmkOk)
