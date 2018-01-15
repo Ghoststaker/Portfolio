@@ -3,4 +3,4 @@ Welcome to my Portfolio!
 
 ## Carena ##
 ### Trailer ###
-[![Screenshot](https://drive.google.com/open?id=10Jg_GzkgafhfJU5YujWugiIuX5RKPB5l)](https://www.youtube.com/watch?v=1BsB0pg29l0)
+[![Screenshot](https://imgur.com/TZfP9k8)](https://www.youtube.com/watch?v=1BsB0pg29l0)
